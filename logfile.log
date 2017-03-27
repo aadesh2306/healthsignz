@@ -1,0 +1,245 @@
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,791 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-09-22 04:07:57,793 INFO  [Log] Opening Browser 
+2014-09-22 04:08:05,443 INFO  [Log] Mozilla browser started 
+2014-09-22 04:08:05,472 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2017-03-24 14:53:16,400 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:53:16,400 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:53:16,400 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-24 14:53:16,400 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:53:16,401 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:53:16,402 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-24 14:53:16,403 INFO  [Log] Opening Browser 
+2017-03-24 14:54:09,933 INFO  [Log] Not able to open the Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1489573486316,"updateDate":1489573486316,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1490347408591	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1490347408593	DeferredSave.extensions.json	DEBUG	Save changes
+1490347408594	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1490347408594	addons.xpi-utils	DEBUG	Updating add-on states
+1490347408595	addons.xpi-utils	DEBUG	Writing add-ons list
+1490347408599	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1490347408600	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1490347408600	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1490347408601	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1490347408602	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1490347408603	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1490347408619	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1490347408620	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1490347408623	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1490347408623	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1490347408623	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1490347408624	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1490347408624	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1490347408624	addons.manager	DEBUG	Starting provider: GMPProvider
+1490347408630	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1490347408631	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1490347408631	addons.manager	DEBUG	Starting provider: PluginProvider
+1490347408631	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1490347408633	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1490347408634	addons.manager	DEBUG	Completed startup sequence
+1490347412684	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1490347412685	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1490347412685	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1490347414528	DeferredSave.extensions.json	DEBUG	Write succeeded
+1490347414528	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1490347414528	DeferredSave.extensions.json	DEBUG	Starting timer
+1490347414541	addons.repository	DEBUG	No addons.json found.
+1490347414542	DeferredSave.addons.json	DEBUG	Save changes
+1490347414605	DeferredSave.addons.json	DEBUG	Starting timer
+1490347415372	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1490347415372	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1490347415373	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1490347415375	DeferredSave.extensions.json	DEBUG	Starting write
+1490347415376	DeferredSave.addons.json	DEBUG	Starting write
+1490347415394	DeferredSave.extensions.json	DEBUG	Write succeeded
+1490347415398	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'LAPTOP-03FGFE34', ip: '192.168.2.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: FirefoxDriver 
+2017-03-24 14:54:10,317 INFO  [Log] Closing the browser 
+2017-03-24 14:54:10,317 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-24 14:54:10,388 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-24 14:54:10,388 INFO  [Log] X 
+2017-03-24 14:54:10,388 INFO  [Log] X 
+2017-03-24 14:54:10,388 INFO  [Log] X 
+2017-03-24 14:54:10,388 INFO  [Log] X 
+2017-03-24 14:56:34,176 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:56:34,177 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:56:34,178 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-24 14:56:34,178 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:56:34,178 INFO  [Log] **************************************************************************************** 
+2017-03-24 14:56:34,181 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-24 14:56:34,183 INFO  [Log] Opening Browser 
+2017-03-24 14:57:22,406 INFO  [Log] Not able to open the Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1489573486316,"updateDate":1489573486316,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1490347601641	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1490347601642	DeferredSave.extensions.json	DEBUG	Save changes
+1490347601642	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1490347601642	addons.xpi-utils	DEBUG	Updating add-on states
+1490347601644	addons.xpi-utils	DEBUG	Writing add-ons list
+1490347601647	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1490347601648	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1490347601648	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1490347601648	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1490347601649	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1490347601650	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1490347601665	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1490347601665	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1490347601668	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1490347601668	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1490347601669	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1490347601669	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1490347601669	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1490347601669	addons.manager	DEBUG	Starting provider: GMPProvider
+1490347601675	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1490347601675	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1490347601675	addons.manager	DEBUG	Starting provider: PluginProvider
+1490347601675	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1490347601678	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1490347601678	addons.manager	DEBUG	Completed startup sequence
+1490347606236	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1490347606236	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1490347606236	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1490347606796	DeferredSave.extensions.json	DEBUG	Write succeeded
+1490347606796	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1490347606796	DeferredSave.extensions.json	DEBUG	Starting timer
+1490347606816	addons.repository	DEBUG	No addons.json found.
+1490347606817	DeferredSave.addons.json	DEBUG	Save changes
+1490347606819	DeferredSave.addons.json	DEBUG	Starting timer
+1490347606859	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1490347606859	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1490347606860	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1490347606861	DeferredSave.extensions.json	DEBUG	Starting write
+1490347606879	DeferredSave.addons.json	DEBUG	Starting write
+1490347606881	DeferredSave.extensions.json	DEBUG	Write succeeded
+1490347606887	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'LAPTOP-03FGFE34', ip: '192.168.2.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: FirefoxDriver 
+2017-03-24 14:57:22,689 INFO  [Log] Closing the browser 
+2017-03-24 14:57:22,689 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-24 14:57:22,759 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-24 14:57:22,759 INFO  [Log] X 
+2017-03-24 14:57:22,759 INFO  [Log] X 
+2017-03-24 14:57:22,759 INFO  [Log] X 
+2017-03-24 14:57:22,759 INFO  [Log] X 
+2017-03-24 15:05:18,707 INFO  [Log] **************************************************************************************** 
+2017-03-24 15:05:18,708 INFO  [Log] **************************************************************************************** 
+2017-03-24 15:05:18,708 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-24 15:05:18,708 INFO  [Log] **************************************************************************************** 
+2017-03-24 15:05:18,708 INFO  [Log] **************************************************************************************** 
+2017-03-24 15:05:18,709 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-24 15:05:18,710 INFO  [Log] Opening Browser 
+2017-03-24 15:05:35,349 INFO  [Log] Mozilla browser started 
+2017-03-24 15:05:35,782 INFO  [Log] Navigating to URL 
+2017-03-24 15:06:01,638 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-03-24 15:06:02,027 INFO  [Log] Entering the text in txtbx_UserName 
+2017-03-24 15:06:06,649 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-24 15:06:08,195 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-24 15:06:08,350 INFO  [Log] Wait for 5 seconds 
+2017-03-24 15:06:13,431 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-03-24 15:06:23,646 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'LAPTOP-03FGFE34', ip: '192.168.2.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1b50bf60-ee86-4571-aea9-15f6fb2a5f09
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-03-24 15:06:23,693 INFO  [Log] Closing the browser 
+2017-03-24 15:06:24,670 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-24 15:06:24,709 INFO  [Log] X 
+2017-03-24 15:06:24,709 INFO  [Log] X 
+2017-03-24 15:06:24,709 INFO  [Log] X 
+2017-03-24 15:06:24,710 INFO  [Log] X 
+2017-03-24 16:02:20,732 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:02:20,733 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:02:20,733 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-24 16:02:20,733 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:02:20,733 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:02:20,735 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-24 16:02:20,736 INFO  [Log] Opening Browser 
+2017-03-24 16:03:12,384 INFO  [Log] Not able to open the Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+"skinnable":false,"size":3110,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1490351576824	addons.xpi	DEBUG	getModTime: Recursive scan of websensehelper@mozilla.org
+1490351576825	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"porwp3ulWvwf","location":"app-global","version":"47.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1489573486316,"updateDate":1489573486316,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1490351576825	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1490351576826	DeferredSave.extensions.json	DEBUG	Save changes
+1490351576826	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1490351576826	addons.xpi-utils	DEBUG	Updating add-on states
+1490351576827	addons.xpi-utils	DEBUG	Writing add-ons list
+1490351576941	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1490351576943	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1490351576943	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1490351576945	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1490351576947	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1490351576949	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1490351576983	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1490351576983	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1490351576986	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1490351576987	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1490351576987	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1490351576987	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1490351576987	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1490351576987	addons.manager	DEBUG	Starting provider: GMPProvider
+1490351577165	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1490351577166	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1490351577166	addons.manager	DEBUG	Starting provider: PluginProvider
+1490351577167	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1490351577172	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1490351577173	addons.manager	DEBUG	Completed startup sequence
+1490351589470	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1490351589470	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1490351589470	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'LAPTOP-03FGFE34', ip: '192.168.2.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: FirefoxDriver 
+2017-03-24 16:03:12,749 INFO  [Log] Closing the browser 
+2017-03-24 16:03:12,749 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-24 16:03:12,820 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-24 16:03:12,820 INFO  [Log] X 
+2017-03-24 16:03:12,820 INFO  [Log] X 
+2017-03-24 16:03:12,820 INFO  [Log] X 
+2017-03-24 16:03:12,821 INFO  [Log] X 
+2017-03-24 16:03:21,196 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:03:21,196 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:03:21,196 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-24 16:03:21,196 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:03:21,196 INFO  [Log] **************************************************************************************** 
+2017-03-24 16:03:21,203 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-24 16:03:21,204 INFO  [Log] Opening Browser 
+2017-03-24 16:03:54,413 INFO  [Log] Mozilla browser started 
+2017-03-24 16:03:55,098 INFO  [Log] Navigating to URL 
+2017-03-24 16:04:36,195 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-03-24 16:04:36,636 INFO  [Log] Entering the text in txtbx_UserName 
+2017-03-24 16:04:40,271 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-24 16:04:49,558 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-24 16:04:49,753 INFO  [Log] Wait for 5 seconds 
+2017-03-24 16:04:54,850 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-03-24 16:05:04,961 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'LAPTOP-03FGFE34', ip: '192.168.2.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4d2b0f1c-6dc7-46cd-a914-32ccbc5a3620
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-03-24 16:05:05,095 INFO  [Log] Closing the browser 
+2017-03-24 16:05:06,948 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-24 16:05:06,948 INFO  [Log] X 
+2017-03-24 16:05:06,948 INFO  [Log] X 
+2017-03-24 16:05:06,948 INFO  [Log] X 
+2017-03-24 16:05:06,949 INFO  [Log] X 
