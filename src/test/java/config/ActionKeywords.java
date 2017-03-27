@@ -1,5 +1,6 @@
 package config;
 
+import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 import static executionEngine.DriverScript.OR;
@@ -9,17 +10,42 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
 
 import executionEngine.DriverScript;
+import io.appium.java_client.android.AndroidDriver;
+import utility.ExcelUtils;
 import utility.Log;
 
 public class ActionKeywords {
 	
 		public static WebDriver driver;
 			
-	public static void openBrowser(String object,String data){		
+	@SuppressWarnings("rawtypes")
+	public static void openBrowser(String object,String data) throws Exception{	
+		@SuppressWarnings("unused")
+		ExcelUtils ex = new ExcelUtils();
+		String DeviceName = ExcelUtils.getCellData(1, 1, "Caps"); 
+		String Version = ExcelUtils.getCellData(2, 1, "Caps"); 
+		String PlatformName = ExcelUtils.getCellData(3, 1, "Caps"); 
+		String AppPackage = ExcelUtils.getCellData(4, 1, "Caps"); 
+		String AppActivity = ExcelUtils.getCellData(5, 1, "Caps"); 
+		String URL = ExcelUtils.getCellData(6, 1, "Caps"); 
 		Log.info("Opening Browser");
-		try{				
+		try{	
+			if(data.equals("Conquest")){
+				DesiredCapabilities capabilities = new DesiredCapabilities();
+				capabilities.setCapability("deviceName", DeviceName);
+				capabilities.setCapability(CapabilityType.BROWSER_NAME, "");
+				capabilities.setCapability(CapabilityType.VERSION, Version);
+				capabilities.setCapability("platformName",PlatformName);
+				capabilities.setCapability("appPackage", AppPackage);
+				capabilities.setCapability("appActivity", AppActivity);
+				driver = new AndroidDriver(new URL(URL), capabilities);
+				driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+				Log.info("Conquest app started");				
+				}
 			if(data.equals("Mozilla")){
 				driver=new FirefoxDriver();
 				Log.info("Mozilla browser started");				

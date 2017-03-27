@@ -1,9 +1,7 @@
-# Home Page Objects
-btn_MyAccount=.//*[@id='account']/a
-btn_LogOut=.//*[@id='account_logout']/a
-
 
 # Login Page Object
-txtbx_UserName=.//*[@id='log']
-txtbx_Password=.//*[@id='pwd']
-btn_LogIn=.//*[@id='login']
+btn_SignIn = .//*[@id='com.healthsignz.consumer:id/button_signin']
+btn_UserId = .//*[@id='com.healthsignz.consumer:id/editText_username']
+txtbx_Password = .//*[@id='com.healthsignz.consumer:id/editText_password']
+txtbx_LogIn = .//*[@id='com.healthsignz.consumer:id/button_login']
+
